@@ -5,7 +5,7 @@
 
 This project dives into the data job market through an interactive Power BI dashboard. It uncovers top-paying roles, in-demand skills, and locations where opportunities and salaries align.
 
-The dashboard was built as part of my Power BI learning journey, combining real 2024 job posting data with visual analytics to highlight key market insights in a clear, single-page design. You can find the file here: [Download the Dashboard](./Data_Jobs_Dashboard2.pbix)
+The dashboard was built as part of my Power BI learning journey, combining real 2024 job posting data with visual analytics to highlight key market insights in a clear, single-page design. You can find the file here: [View the Dashboard](./Data_Jobs_Dashboard2.pbix)
 
 ## Skills Showcased
 
